@@ -56,7 +56,7 @@ class _HomeViewState extends State<HomeView> {
               ),
             ),
 
-            SizedBox(height: 30),
+            SizedBox(height: 50),
 
             // w2
             Text(
@@ -68,7 +68,7 @@ class _HomeViewState extends State<HomeView> {
               ),
             ),
 
-            SizedBox(height: 30),
+            SizedBox(height: 50),
 
             // Orange Container
             Center(
